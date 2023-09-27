@@ -15,6 +15,7 @@ Remaining 35 features (brands) contains the number of times
 customers have searched them
 
 PERCENTAGE OF GENDER
+
 Screenshot ![Screenshot (59)](https://github.com/Mithunhm5/Customer-segmentation/assets/140577722/e00393a3-f9e1-4198-94be-a916b5df3f92)
 
 
